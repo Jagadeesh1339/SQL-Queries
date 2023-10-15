@@ -1,2 +1,2 @@
-# PortfolioProject
-Checking the data present in the covid cases related dataset using SQL for further use 
+# SQL queries
+Performing various queries to retrive, create and update data from databases.
